@@ -44,4 +44,4 @@ Applied hypothesis testing techniques to evaluate the significance of experiment
 
 ## Outcome:
 
-Through this project, we gained valuable insights into user behavior, enabling the company to make informed decisions to optimize the user experience and drive business growth
+Through this project, I gained valuable insights into user behavior, enabling the company to make informed decisions to optimize the user experience and drive business growth
