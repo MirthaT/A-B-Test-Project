@@ -39,3 +39,9 @@ Applied hypothesis testing techniques to evaluate the significance of experiment
 * Statistical Analysis: Applied statistical techniques to assess the significance of experimental results and draw actionable conclusions.
 * Business Understanding: Interpreted analytical findings in the context of business objectives to inform strategic decision-making.
 * Communication: Effectively communicated analysis findings and recommendations to stakeholders through clear and concise reports.
+
+---
+
+## Outcome:
+
+Through this project, we gained valuable insights into user behavior, enabling the company to make informed decisions to optimize the user experience and drive business growth
