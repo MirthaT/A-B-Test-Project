@@ -14,3 +14,18 @@ Analyzed the sequence of user events to identify the user journey and potential 
 Implemented an A/A/B test to evaluate the impact of design changes on user behavior. Assessed the statistical significance of experimental results.
 ### Result Interpretation: 
 Interpreted experimental findings to draw insights into user preferences and behavior. Communicated conclusions and recommendations to stakeholders.
+
+---
+
+## Technologies Used:
+
+### Python: 
+Utilized for data preprocessing, exploratory data analysis, and statistical testing.
+### Jupyter Notebook: 
+Platform for code execution and documentation, facilitating an interactive and reproducible analysis environment.
+### Pandas: 
+Used for data manipulation and analysis tasks, including cleaning and transforming raw data.
+### Matplotlib and Seaborn: 
+Employed for data visualization to illustrate trends and patterns in user behavior.
+### Statistical Methods: 
+Applied hypothesis testing techniques to evaluate the significance of experimental results.
