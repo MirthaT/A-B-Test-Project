@@ -29,3 +29,13 @@ Used for data manipulation and analysis tasks, including cleaning and transformi
 Employed for data visualization to illustrate trends and patterns in user behavior.
 ### Statistical Methods: 
 Applied hypothesis testing techniques to evaluate the significance of experimental results.
+
+---
+
+## Skills Demonstrated:
+
+* Data Preprocessing: Processed and cleaned raw data to ensure accuracy and reliability in subsequent analyses.
+* Exploratory Data Analysis (EDA): Conducted in-depth exploration of the dataset to uncover insights and identify trends in user behavior.
+* Statistical Analysis: Applied statistical techniques to assess the significance of experimental results and draw actionable conclusions.
+* Business Understanding: Interpreted analytical findings in the context of business objectives to inform strategic decision-making.
+* Communication: Effectively communicated analysis findings and recommendations to stakeholders through clear and concise reports.
